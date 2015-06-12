@@ -1,6 +1,9 @@
 // BEGIN_INTERNALS
 /*
-MAP_ICON_TYPE: 0
+DIR: icons icons\misc 
 AUTO_FILE_DIR: OFF
+MAP_ICON_TYPE: 0
+WINDOW: icons\misc\fullscreen.dmi;icons\misc\fullscreen_halloween.dmi;icons\misc\fullscreen_original.dmi;icons\misc\debug_space.dmi
+FILE: icons\misc\fullscreen.dmi
 */
 // END_INTERNALS
