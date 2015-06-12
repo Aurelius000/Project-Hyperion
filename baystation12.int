@@ -1,9 +1,11 @@
 // BEGIN_INTERNALS
 /*
-DIR: code icons\misc 
+LAST_COMPILE_TIME: 1434131415
+DIR: code icons\misc maps 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
-WINDOW: icons\misc\fullscreen.dmi;icons\misc\fullscreen_halloween.dmi;icons\misc\fullscreen_original.dmi;icons\misc\debug_space.dmi;code\hub.dm;code\names.dm;code\world.dm
+LAST_COMPILE_VERSION: 507.1286
+WINDOW: icons\misc\fullscreen.dmi;icons\misc\fullscreen_halloween.dmi;icons\misc\fullscreen_original.dmi;icons\misc\debug_space.dmi;code\hub.dm;code\names.dm;code\world.dm;code\stylesheet.dm
 FILE: code\world.dm
 */
 // END_INTERNALS
