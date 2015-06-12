@@ -6,5 +6,6 @@
 *.lk
 *.backup
 *.db
+*.baystation12.int
 data/
 cfg/
