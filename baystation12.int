@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
-LAST_COMPILE_TIME: 1434143970
-DIR: code code\game code\game\area code\game\gamemodes code\game\machinery code\modules code\modules\admin code\modules\admin\verbs code\modules\holodeck icons icons\misc maps 
+LAST_COMPILE_TIME: 1434144182
+DIR: code code\game code\game\area code\game\gamemodes code\game\machinery code\modules code\modules\admin code\modules\admin\verbs code\modules\client code\modules\holodeck icons icons\misc maps 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 507.1286
-WINDOW: icons\misc\fullscreen.dmi;icons\misc\fullscreen_halloween.dmi;icons\misc\fullscreen_original.dmi;icons\misc\debug_space.dmi;code\hub.dm;code\names.dm;code\world.dm;code\stylesheet.dm;code\global.dm;code\game\area\Space Station 13 areas.dm;code\game\gamemodes\gameticker.dm;code\modules\admin\verbs\randomverbs.dm
-FILE: code\world.dm
+WINDOW: icons\misc\fullscreen.dmi;icons\misc\fullscreen_halloween.dmi;icons\misc\fullscreen_original.dmi;icons\misc\debug_space.dmi;code\hub.dm;code\names.dm;code\world.dm;code\stylesheet.dm;code\global.dm;code\game\area\Space Station 13 areas.dm;code\game\gamemodes\gameticker.dm;code\modules\admin\verbs\randomverbs.dm;code\modules\client\preferences.dm;code\game\sound.dm
+FILE: code\game\sound.dm
 */
 // END_INTERNALS
