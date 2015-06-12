@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 LAST_COMPILE_TIME: 1434131415
-DIR: code icons\misc maps 
+DIR: code code\game code\game\area code\game\gamemodes code\game\machinery code\modules code\modules\holodeck icons icons\misc maps 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 507.1286
-WINDOW: icons\misc\fullscreen.dmi;icons\misc\fullscreen_halloween.dmi;icons\misc\fullscreen_original.dmi;icons\misc\debug_space.dmi;code\hub.dm;code\names.dm;code\world.dm;code\stylesheet.dm;code\global.dm
-FILE: code\global.dm
+WINDOW: icons\misc\fullscreen.dmi;icons\misc\fullscreen_halloween.dmi;icons\misc\fullscreen_original.dmi;icons\misc\debug_space.dmi;code\hub.dm;code\names.dm;code\world.dm;code\stylesheet.dm;code\global.dm;code\game\area\Space Station 13 areas.dm;code\game\machinery\jukebox.dm;code\modules\holodeck\HolodeckPrograms.dm;code\game\gamemodes\gameticker.dm
+FILE: code\game\gamemodes\gameticker.dm
 */
 // END_INTERNALS
