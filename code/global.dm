@@ -26,7 +26,7 @@ var/list/hit_appends = list("-OOF", "-ACK", "-UGH", "-HRNK", "-HURGH", "-GLORF")
 
 var/diary          = null
 var/href_logfile   = null
-var/station_name   = "NSS Exodus"
+var/station_name   = "NSS Hyperion"
 var/game_version   = "Baystation12"
 var/changelog_hash = ""
 var/game_year      = (text2num(time2text(world.realtime, "YYYY")) + 544)
